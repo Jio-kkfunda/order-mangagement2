@@ -1,4 +1,4 @@
 apiversion11:v1
-kind:pod
+kind:deply
 metadata:
   spec:
