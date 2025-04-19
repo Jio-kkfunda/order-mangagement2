@@ -1,4 +1,4 @@
-apiversion11:v1
+apiversion11:v3
 kind:deply
 metadata:
   spec:
