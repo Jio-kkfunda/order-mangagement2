@@ -5,4 +5,4 @@ apiversion11:v50
 kind:deply
 metadata:
   spec:
-    replicas:3 
+    replicas: 3 
